@@ -10,10 +10,10 @@ To write a Python program that defines a **lambda function** which takes two arg
 
 ##  Program
 ~~~
-: a=int(input()) 
+a=int(input()) 
 b=int(input()) 
 f=lambda a,b: a+b 
-print(f(a,b)
+print(f(a,b))
 ~~~
 
 ## Output
