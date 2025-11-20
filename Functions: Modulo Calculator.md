@@ -20,7 +20,8 @@ b = int(input())
 ~~~
 
 ## Output
-![image](https://github.com/user-attachments/assets/867a0537-7892-4fcb-aeaa-6151e8b391e7)
+<img width="595" height="269" alt="image" src="https://github.com/user-attachments/assets/e5c2db3f-470d-42f4-9a7e-292e595035e4" />
+
 
 ## Result
 Thus, the program has been successfully executed 
