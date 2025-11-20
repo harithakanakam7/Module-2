@@ -15,7 +15,7 @@ print(bin(a))
 ~~~
 
 ## Output
-![image](https://github.com/user-attachments/assets/1cdfe979-f525-46c1-964b-bfce00b3d4aa)
+<img width="682" height="312" alt="image" src="https://github.com/user-attachments/assets/3beea92a-da19-4675-8f31-945f1c8914e5" />
 
 
 ## Result
