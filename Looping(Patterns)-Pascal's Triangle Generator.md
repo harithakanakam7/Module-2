@@ -43,7 +43,7 @@ for i in range(1, rows+1):
     print()
 ~~~
 ## Sample Output
-![image](https://github.com/user-attachments/assets/93510fb5-8b25-4fc1-8dee-20687ac4d7d7)
+![image](https://github.com/user-attachments/assets/ae823127-7423-4d8d-a4c9-ffe2e7518c47)
 
 ## Result
 Thus, the program has been successfully executed 
